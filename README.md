@@ -3,4 +3,4 @@ This GitHub folder contains the R script for replicating analyses presented in t
 
 The R script uses the following libraries: cluster; MatchIt; mboost; parallelDist; ranger; ROCR. The script has been tested under R x64 4.0.2. When reading the input file, please pay attention to the factor/character defaults, special characters, EOL/EOF. The script has comments to guide its execution. The genetic signature file (k-mers), the outcome and covariates are derived from the Pathosystems Resource Integration Center (PATRIC) database (https://www.patricbrc.org/) but no original data from PATRIC is posted in this repository (e.g., a k-mer or a feature derived from a PATRIC genome is a abstracted as a numbered binary column); instead, the accession numbers to retrieve the original PATRIC genotypes and data are provided in a separate file.
 
-Correspondence: m.prosperi@ufl.edu; smarini@ufl.edu
+Correspondence: m.prosperi@ufl.edu; simone.marini@ufl.edu
